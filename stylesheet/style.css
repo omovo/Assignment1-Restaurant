@@ -1,0 +1,119 @@
+section{
+    height: 400px;
+    background-image: url("/images/background-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: chocolate;
+    }
+
+   
+
+    .item-1{
+       position: absolute;
+       right: 100px;
+       bottom: 700px;
+       word-spacing: 10px;
+       letter-spacing: normal;
+       
+             
+    }
+
+    .login{
+        color: white;
+        text-decoration: none;
+    }
+
+    .create-acct{
+        color: white;
+        word-spacing: normal;
+        text-decoration: none;
+        border: 1px solid white;
+        padding: 7px 20px;
+        border-radius: 10px;
+    }
+
+    .item-6{
+        position: absolute;
+        right: 800px;
+        bottom:600px;
+    }
+
+    .item-6{
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px 15px;
+        position: absolute;
+        right: 53%;
+        bottom: 570px;
+     
+     }
+
+     .logo-span{
+        color: red;
+        font-family: Arial Black;
+        font-weight: 400;
+        font-size: 30px;
+        text-decoration: none;
+    }
+
+    .item-7{
+        position: absolute;
+        right: 500px;
+        bottom: 410px;
+        color: white;
+        font-size: 30px;
+        font-family: Arial Black;
+    }
+
+    .item-8{
+        position: absolute;
+        bottom: 400px;
+        right: 900px;
+        
+    }
+
+    .select-city{
+       position: relative;
+        font-size: 15px;
+    }
+
+    .item-9{
+        position: absolute;
+        bottom: 400px;
+        right: 700px;
+    }
+
+    .container{
+        position: absolute;
+        display: flex;
+        gap: 3rem;
+        
+    }
+
+    .breakfast{
+        position: absolute;
+        right: 800px;
+        top: -10px;
+        font-size: medium;
+        color: darkslateblue;
+    }
+
+    .lunch{
+        position: absolute;
+        right: 480px;
+        top: -10px;
+        font-size: medium;
+        color: darkslateblue;
+
+    }
+        
+    .snacks{
+        position: absolute;
+        right: 120px;
+        top: -10px;
+        font-size: medium;
+        color: darkslateblue;
+    }
+            
+    
+   
